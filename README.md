@@ -4,6 +4,7 @@ Contact: asafzabary@gmail.com , idanbiton28@gmail.com
 Data Science project
 
 PROJECT PRESENTION:
+
 Part 1 - Data crawling Main tools: selenium
 
 Part 2 - Cleaning and formating the data
