@@ -1,8 +1,8 @@
-# Restaurant4u Data Science Project
-
-Welcome to the Restaurant4u Data Science project, a comprehensive machine learning and analysis project focused on investigating how a restaurant's characteristics affect its rating. This project encompasses various stages, from data scanning and cleaning to exploratory data analysis (EDA) and implementation of machine learning models.
-
+<div align="center">
+  <h1># Restaurant4u Data Science Project</h1>
+ <p>This is a comprehensive machine learning and analysis project focused on investigating how a restaurant's characteristics affect its rating. The project encompasses various stages, from data scanning and cleaning to exploratory data analysis (EDA) and the implementation of machine learning models.</p>
 ## Project Presentation
+</div>
 
 ### Part 1 - Data Crawling
 **Main tools used:** Selenium
