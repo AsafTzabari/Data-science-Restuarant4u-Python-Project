@@ -32,11 +32,13 @@ These models are utilized to make predictions and draw meaningful conclusions ba
 In conclusion, our project involved the activation of six different attempts on various machine learning models. After thorough evaluation, we identified that the most effective model is the Logistic Regression with a punishment penalty. This model provided the best performance, yielding a Mean Squared Error (MSE) result of 0.370. This outcome signifies the model's accuracy and reliability in predicting and understanding the factors influencing restaurant ratings.
 
 ## Technology Used
-- <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white' alt='Selenium'/>
-- <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python'/>
-- <img src='https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Matplotlib'/>
-- <img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas'/>
-- <img src='https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='Scikit-Learn'/>
+<div>
+ <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white' alt='Selenium'/>
+ <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python'/>
+ <img src='https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Matplotlib'/>
+ <img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas'/>
+ <img src='https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='Scikit-Learn'/>
+</div>
 
 ## Setup
 
