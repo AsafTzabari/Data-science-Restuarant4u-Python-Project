@@ -46,9 +46,9 @@ In conclusion, our project involved the activation of six different attempts on 
    ```bash
    git clone https://github.com/AsafTzabar/Restaurant4u-DataScience-Project
 2. Navigate to the project directory.
-3. Open the provided Jupyter Notebook 'Restuarant4u-Project.ipynb' to see the code and explanations. 
+3. Open the provided Jupyter Notebook `Restuarant4u-Project.ipynb` to see the code and explanations. 
 ## Usage
-1. Load the training data from 'DatasetAfterClean.csv'.
+1. Load the training data from `DatasetAfterClean.csv`.
 
 2. Preprocess the data using the cleaning and formatting scripts provided.
 
