@@ -1,6 +1,6 @@
 # Restaurant4u Data Science Project
 
-Welcome to the Restaurant4u Data Science project, a comprehensive analysis and machine learning project focusing on restaurant-related data. This project encompasses various stages, from data crawling and cleaning to exploratory data analysis (EDA) and the implementation of machine learning models.
+Welcome to the Restaurant4u Data Science project, a comprehensive machine learning and analysis project focused on investigating how a restaurant's characteristics affect its rating. This project encompasses various stages, from data scanning and cleaning to exploratory data analysis (EDA) and implementation of machine learning models.
 
 ## Project Presentation
 
@@ -26,6 +26,17 @@ The project implements several machine learning models, including:
 - Linear Regression
 
 These models are utilized to make predictions and draw meaningful conclusions based on the analyzed data. The application of machine learning enhances our understanding of various factors affecting the restaurant industry.
+
+## Results
+
+In conclusion, our project involved the activation of six different attempts on various machine learning models. After thorough evaluation, we identified that the most effective model is the Logistic Regression with a punishment penalty. This model provided the best performance, yielding a Mean Squared Error (MSE) result of 0.370. This outcome signifies the model's accuracy and reliability in predicting and understanding the factors influencing restaurant ratings.
+
+## Technology Used
+- <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white' alt='Selenium'/>
+- <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python'/>
+- <img src='https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Matplotlib'/>
+- <img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas'/>
+- <img src='https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='Scikit-Learn'/>
 
 ## Setup
 
