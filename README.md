@@ -46,9 +46,9 @@ In conclusion, our project involved the activation of six different attempts on 
    ```bash
    git clone https://github.com/AsafTzabar/Restaurant4u-DataScience-Project
 2. Navigate to the project directory.
-3. 
+3. Open the provided Jupyter Notebook 'Restuarant4u-Project.ipynb' to see the code and explanations. 
 ## Usage
-1. Load the training data from restaurant_data.csv.
+1. Load the training data from 'DatasetAfterClean.csv'.
 
 2. Preprocess the data using the cleaning and formatting scripts provided.
 
@@ -60,3 +60,10 @@ In conclusion, our project involved the activation of six different attempts on 
 
 6. Use the trained model to make predictions on new data or test datasets.
 
+## License
+
+![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
+
+## Contributing
+
+If you are working on this project and have suggestions, improvements, or bug fixes, feel free to open issues or make pull requests. Your contributions are valuable in enhancing the project.
