@@ -40,8 +40,23 @@ In conclusion, our project involved the activation of six different attempts on 
  <img src='https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='Scikit-Learn'/>
 </div>
 
-## Setup
+## Getting Started
 
-1. **Clone the Repository:**
+1. **Clone this repository to your local machine.:**
    ```bash
-   git clone https://github.com/YourUsername/Restaurant4u-DataScience-Project
+   git clone https://github.com/AsafTzabar/Restaurant4u-DataScience-Project
+2. Navigate to the project directory.
+3. 
+## Usage
+1. Load the training data from restaurant_data.csv.
+
+2. Preprocess the data using the cleaning and formatting scripts provided.
+
+3. Run the Jupyter Notebook to perform EDA and visualize insights.
+
+4. Train machine learning models using the provided scripts.
+
+5. Evaluate the models using relevant metrics such as accuracy, precision, and recall.
+
+6. Use the trained model to make predictions on new data or test datasets.
+
